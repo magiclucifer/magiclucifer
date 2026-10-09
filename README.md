@@ -1,3 +1,6 @@
 <h1 align="center">MAGIC LUCIFER</h1><p align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=B8FF36&center=true&vCenter=true&width=400&lines=Fouad+Salehi;Vanilla+JavaScript+Specialist" alt="Typing SVG" />
+  
   <samp>Code the impossible. Break the ordinary.</samp>
 </p>
